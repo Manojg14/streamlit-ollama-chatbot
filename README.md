@@ -37,8 +37,8 @@ streamlit-ollama-chatbot/
 ├── README.md
 ├── .gitignore
 │
-└── screenshots/
-    └── chatbot-interface.png
+└── Screenshots/
+    └── chatbot-interface.jpeg
 ```
 
 ## ⚙️ Installation and Setup
